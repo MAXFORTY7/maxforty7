@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, ich bin Maximilian 👋
 
-<!--
-**MAXFORTY7/MAXFORTY7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere Medieninformatik und stehe kurz vor meinem Abschluss.  
+Aktuell suche ich eine **Werkstudentenstelle / Praxissemester** im Bereich:
 
-Here are some ideas to get you started:
+- App-Entwicklung (Flutter)
+- Webentwicklung (Frontend || Backend)
+- UI/UX mit technischem Fokus
+- Schnittstelle zwischen Design & Entwicklung
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech-Stack
+
+- **Sprachen:**  Java (Erweitert), C/C++ (Grundlagen), PHP (Grundlagen), Kotlin (Grundlagen)
+- **Frameworks & Tools:** Flutter, Figma, Git, Adobe CC, Android Studio, VSCode
+- **Interessen:** Gamification, Produktivitätstools, Prototyping, UX für Alltags-Apps
+
+## 📂 Aktuelle Ziele
+
+- Entwicklung einer **Task-App mit Gamification** (Flutter)
+- Aufbau eines **Portfolios** mit praxisnahen Projekten
+- Einstieg als **Werkstudent in der Entwicklung**, idealerweise mit Option auf Bachelorarbeit
+
+## 📫 Kontakt
+
+- E-Mail: max@forty7design.de
+- LinkedIn: folgt
